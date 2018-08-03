@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04b36173-cbf8-4849-9cbd-507f4cbc1004" name="Default" comment="" />
+    <list default="true" id="04b36173-cbf8-4849-9cbd-507f4cbc1004" name="Default" comment="``">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/array/com/imooc/set/pride-and-prejudice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/array/com/imooc/set/pride-and-prejudice.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/imooc/set/pride-and-prejudice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imooc/set/pride-and-prejudice.txt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,6 +31,9 @@
       <find>Node</find>
       <find>add(</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -85,6 +93,9 @@
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="702" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -253,12 +264,20 @@
       <workItem from="1532097569043" duration="4038000" />
       <workItem from="1532137959441" duration="318000" />
       <workItem from="1532142108506" duration="7473000" />
-      <workItem from="1533297113498" duration="401000" />
+      <workItem from="1533297113498" duration="1830000" />
     </task>
+    <task id="LOCAL-00001" summary="``">
+      <created>1533297908196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533297908196</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74710000" />
+    <option name="totallyTimeSpent" value="76139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="702" extended-state="0" />
@@ -272,7 +291,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.35738832" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3281787" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -298,6 +317,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="``" />
+    <option name="LAST_COMMIT_MESSAGE" value="``" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
