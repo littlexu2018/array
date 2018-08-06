@@ -139,6 +139,18 @@ public class MyArray<E> {
         return get(0);
     }
 
+    /**
+     * 两个索引的元素交换
+     * @param i
+     */
+    public void swap(int i, int j){
+        if (i<0 || i >=size || j<0|| j>=size)
+            throw new IllegalArgumentException("Index is illegal");
+        E t = data[i];
+        data[i] = data[j];
+        data[j] =t;
+    }
+
     @Override
     public String toString(){
         StringBuilder res =new StringBuilder();
