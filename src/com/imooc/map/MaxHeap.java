@@ -35,7 +35,7 @@ public class MaxHeap<E extends Comparable<E>> {
     }
 
     /**
-     * 返回完全基于二叉树数组中，一个索引所在的元素 的父亲元素的索引
+     * 返回完全基于二叉树数组中，一个索引所在的元素的父亲元素的索引
      * @param index
      * @return
      */
