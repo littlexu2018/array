@@ -9,6 +9,7 @@ import com.imooc.array.MyArray;
  */
 public class MaxHeap<E extends Comparable<E>> {
 
+
     private MyArray<E> data;
 
     public MaxHeap(){
